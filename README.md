@@ -36,7 +36,3 @@ flutter run --release
 ## Design 
 
 Designed by [Hitesh Tapaniya](https://www.figma.com/@hiteshbenzatine). [E-Commerce App Design](https://www.figma.com/community/file/1131440097475381135),
-
-## License
-
-This project is licensed under the MIT license. See [LICENSE](https://github.com/egemenongel/flutter_e-commerce_app/blob/master/LICENSE) for more information.
