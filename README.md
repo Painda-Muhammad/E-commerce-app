@@ -13,8 +13,6 @@
 
 E-commerce project created using Flutter and Fake Store Api.
 
-https://user-images.githubusercontent.com/73590188/185792214-f04870fa-daaa-488d-8a7c-79f607c8b08a.mp4
-
 ## Screenshots
 
 | Splash Screen | Home Screen   | Shop Screen Grid  |
